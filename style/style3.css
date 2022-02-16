@@ -1,0 +1,33 @@
+* {    
+    margin: 0;
+}
+
+.main {
+    background-color: black;
+}
+
+.nav {
+    display: inline-block;
+    vertical-align: top;    
+    background-color: lightblue;
+    width: 25%;           
+}
+
+li {
+    list-style: none;
+}
+
+.section {      
+    display: inline-block;  
+    background-color: white;
+    text-align: center;           
+    width: 50%;
+    margin: 0 -4px;       
+}
+
+.aside {
+    display: inline-block;
+    vertical-align: top;    
+    width: 25%;
+    background-color: lightblue;
+}

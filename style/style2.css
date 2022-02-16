@@ -1,0 +1,40 @@
+* {    
+    margin: 0;
+}
+
+.main {
+    background-color: violet;
+}
+
+.nav {
+    display: inline-block;
+    vertical-align: top;    
+    background-color: lightblue;
+    width: 25%;           
+}
+
+li {
+    list-style: none;
+}
+
+.block {    
+    display: inline-block;
+    text-align: center;           
+    width: 50%;
+    margin: 0 -4px;       
+}
+
+.section {        
+    background-color: yellow;       
+}
+
+.article {    
+    background-color: pink;         
+}
+
+.aside {
+    display: inline-block;
+    vertical-align: top;    
+    width: 25%;
+    background-color: lightblue;
+}
